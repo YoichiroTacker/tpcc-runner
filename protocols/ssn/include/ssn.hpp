@@ -7,7 +7,7 @@
 
 #include "protocols/common/timestamp_manager.hpp"
 #include "protocols/common/transaction_id.hpp"
-#include "protocols/mvto/include/readwriteset.hpp"
+#include "protocols/ssn/include/readwriteset.hpp"
 #include "utils/logger.hpp"
 #include "utils/utils.hpp"
 
