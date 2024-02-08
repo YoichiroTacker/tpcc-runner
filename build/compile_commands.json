@@ -1,0 +1,237 @@
+[
+{
+  "directory": "/home/build",
+  "command": "/usr/bin/c++  -DLOG_LEVEL=0 -Dtpcc_silo_EXPORTS -I/home -I/home/build/_deps/src/mimalloc/include -I/home/build/_deps/src  -Ofast -DNDEBUG   -pthread -Werror -Wall -Wextra -fPIC -std=c++17 -o CMakeFiles/tpcc_silo.dir/executables/tpcc_silo.cpp.o -c /home/executables/tpcc_silo.cpp",
+  "file": "/home/executables/tpcc_silo.cpp"
+},
+{
+  "directory": "/home/build",
+  "command": "/usr/bin/c++  -DLOG_LEVEL=0 -I/home -I/home/build/_deps/src/mimalloc/include -I/home/build/_deps/src  -Ofast -DNDEBUG   -Werror -Wall -Wextra -fPIC -std=c++17 -o CMakeFiles/tpccrunner_objlib.dir/benchmarks/tpcc/src/record_layout.cpp.o -c /home/benchmarks/tpcc/src/record_layout.cpp",
+  "file": "/home/benchmarks/tpcc/src/record_layout.cpp"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/cc  -I/home/build/_deps/src/masstree  -O3 -DNDEBUG   -Werror -Wall -Wextra -fPIC -o CMakeFiles/masstree_obj2.dir/clp.c.o   -c /home/build/_deps/src/masstree/clp.c",
+  "file": "/home/build/_deps/src/masstree/clp.c"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/json.cc.o -c /home/build/_deps/src/masstree/json.cc",
+  "file": "/home/build/_deps/src/masstree/json.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/string.cc.o -c /home/build/_deps/src/masstree/string.cc",
+  "file": "/home/build/_deps/src/masstree/string.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/straccum.cc.o -c /home/build/_deps/src/masstree/straccum.cc",
+  "file": "/home/build/_deps/src/masstree/straccum.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/str.cc.o -c /home/build/_deps/src/masstree/str.cc",
+  "file": "/home/build/_deps/src/masstree/str.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/msgpack.cc.o -c /home/build/_deps/src/masstree/msgpack.cc",
+  "file": "/home/build/_deps/src/masstree/msgpack.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/kvrandom.cc.o -c /home/build/_deps/src/masstree/kvrandom.cc",
+  "file": "/home/build/_deps/src/masstree/kvrandom.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/compiler.cc.o -c /home/build/_deps/src/masstree/compiler.cc",
+  "file": "/home/build/_deps/src/masstree/compiler.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/memdebug.cc.o -c /home/build/_deps/src/masstree/memdebug.cc",
+  "file": "/home/build/_deps/src/masstree/memdebug.cc"
+},
+{
+  "directory": "/home/build/_deps/build/masstree",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/masstree  -Ofast -DNDEBUG   -include /home/build/_deps/src/masstree/config.h -Werror -Wall -Wextra -fPIC -std=c++11 -o CMakeFiles/masstree_obj1.dir/kvthread.cc.o -c /home/build/_deps/src/masstree/kvthread.cc",
+  "file": "/home/build/_deps/src/masstree/kvthread.cc"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc  -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-test-stress.dir/test/test-stress.c.o   -c /home/build/_deps/src/mimalloc/test/test-stress.c",
+  "file": "/home/build/_deps/src/mimalloc/test/test-stress.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-obj.dir/src/static.c.o   -c /home/build/_deps/src/mimalloc/src/static.c",
+  "file": "/home/build/_deps/src/mimalloc/src/static.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/stats.c.o   -c /home/build/_deps/src/mimalloc/src/stats.c",
+  "file": "/home/build/_deps/src/mimalloc/src/stats.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/random.c.o   -c /home/build/_deps/src/mimalloc/src/random.c",
+  "file": "/home/build/_deps/src/mimalloc/src/random.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/os.c.o   -c /home/build/_deps/src/mimalloc/src/os.c",
+  "file": "/home/build/_deps/src/mimalloc/src/os.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/bitmap.c.o   -c /home/build/_deps/src/mimalloc/src/bitmap.c",
+  "file": "/home/build/_deps/src/mimalloc/src/bitmap.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/arena.c.o   -c /home/build/_deps/src/mimalloc/src/arena.c",
+  "file": "/home/build/_deps/src/mimalloc/src/arena.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/region.c.o   -c /home/build/_deps/src/mimalloc/src/region.c",
+  "file": "/home/build/_deps/src/mimalloc/src/region.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/segment.c.o   -c /home/build/_deps/src/mimalloc/src/segment.c",
+  "file": "/home/build/_deps/src/mimalloc/src/segment.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/page.c.o   -c /home/build/_deps/src/mimalloc/src/page.c",
+  "file": "/home/build/_deps/src/mimalloc/src/page.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/alloc.c.o   -c /home/build/_deps/src/mimalloc/src/alloc.c",
+  "file": "/home/build/_deps/src/mimalloc/src/alloc.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/alloc-aligned.c.o   -c /home/build/_deps/src/mimalloc/src/alloc-aligned.c",
+  "file": "/home/build/_deps/src/mimalloc/src/alloc-aligned.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/alloc-posix.c.o   -c /home/build/_deps/src/mimalloc/src/alloc-posix.c",
+  "file": "/home/build/_deps/src/mimalloc/src/alloc-posix.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/heap.c.o   -c /home/build/_deps/src/mimalloc/src/heap.c",
+  "file": "/home/build/_deps/src/mimalloc/src/heap.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/options.c.o   -c /home/build/_deps/src/mimalloc/src/options.c",
+  "file": "/home/build/_deps/src/mimalloc/src/options.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_STATIC_LIB -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-static.dir/src/init.c.o   -c /home/build/_deps/src/mimalloc/src/init.c",
+  "file": "/home/build/_deps/src/mimalloc/src/init.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc  -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc-test-api.dir/test/test-api.c.o   -c /home/build/_deps/src/mimalloc/test/test-api.c",
+  "file": "/home/build/_deps/src/mimalloc/test/test-api.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/stats.c.o   -c /home/build/_deps/src/mimalloc/src/stats.c",
+  "file": "/home/build/_deps/src/mimalloc/src/stats.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/random.c.o   -c /home/build/_deps/src/mimalloc/src/random.c",
+  "file": "/home/build/_deps/src/mimalloc/src/random.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/os.c.o   -c /home/build/_deps/src/mimalloc/src/os.c",
+  "file": "/home/build/_deps/src/mimalloc/src/os.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/bitmap.c.o   -c /home/build/_deps/src/mimalloc/src/bitmap.c",
+  "file": "/home/build/_deps/src/mimalloc/src/bitmap.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/arena.c.o   -c /home/build/_deps/src/mimalloc/src/arena.c",
+  "file": "/home/build/_deps/src/mimalloc/src/arena.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/region.c.o   -c /home/build/_deps/src/mimalloc/src/region.c",
+  "file": "/home/build/_deps/src/mimalloc/src/region.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/segment.c.o   -c /home/build/_deps/src/mimalloc/src/segment.c",
+  "file": "/home/build/_deps/src/mimalloc/src/segment.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/page.c.o   -c /home/build/_deps/src/mimalloc/src/page.c",
+  "file": "/home/build/_deps/src/mimalloc/src/page.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/alloc.c.o   -c /home/build/_deps/src/mimalloc/src/alloc.c",
+  "file": "/home/build/_deps/src/mimalloc/src/alloc.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/alloc-aligned.c.o   -c /home/build/_deps/src/mimalloc/src/alloc-aligned.c",
+  "file": "/home/build/_deps/src/mimalloc/src/alloc-aligned.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/alloc-posix.c.o   -c /home/build/_deps/src/mimalloc/src/alloc-posix.c",
+  "file": "/home/build/_deps/src/mimalloc/src/alloc-posix.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/heap.c.o   -c /home/build/_deps/src/mimalloc/src/heap.c",
+  "file": "/home/build/_deps/src/mimalloc/src/heap.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/options.c.o   -c /home/build/_deps/src/mimalloc/src/options.c",
+  "file": "/home/build/_deps/src/mimalloc/src/options.c"
+},
+{
+  "directory": "/home/build/_deps/build/mimalloc",
+  "command": "/usr/bin/cc -DMI_MALLOC_OVERRIDE -DMI_SHARED_LIB -DMI_SHARED_LIB_EXPORT -Dmimalloc_EXPORTS -I/home/build/_deps/src/mimalloc/include  -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wno-unknown-pragmas -fvisibility=hidden -Wno-invalid-memory-model -ftls-model=initial-exec -std=gnu11 -o CMakeFiles/mimalloc.dir/src/init.c.o   -c /home/build/_deps/src/mimalloc/src/init.c",
+  "file": "/home/build/_deps/src/mimalloc/src/init.c"
+},
+{
+  "directory": "/home/build/_deps/build/googletest/googlemock",
+  "command": "/usr/bin/c++   -isystem /home/build/_deps/src/googletest/googlemock/include -isystem /home/build/_deps/src/googletest/googlemock -isystem /home/build/_deps/src/googletest/googletest/include -isystem /home/build/_deps/src/googletest/googletest  -Ofast -DNDEBUG   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/build/_deps/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/build/_deps/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/build/_deps/build/googletest/googlemock",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/googletest/googlemock/include -I/home/build/_deps/src/googletest/googlemock -isystem /home/build/_deps/src/googletest/googletest/include -isystem /home/build/_deps/src/googletest/googletest  -Ofast -DNDEBUG   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/build/_deps/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/build/_deps/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/build/_deps/build/googletest/googletest",
+  "command": "/usr/bin/c++   -isystem /home/build/_deps/src/googletest/googletest/include -isystem /home/build/_deps/src/googletest/googletest  -Ofast -DNDEBUG   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/build/_deps/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/build/_deps/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/build/_deps/build/googletest/googletest",
+  "command": "/usr/bin/c++   -I/home/build/_deps/src/googletest/googletest/include -I/home/build/_deps/src/googletest/googletest  -Ofast -DNDEBUG   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/build/_deps/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/build/_deps/src/googletest/googletest/src/gtest-all.cc"
+}
+]

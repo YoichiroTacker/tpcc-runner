@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/build/_deps/src/masstree/clp.c
+config.h
+-
+clp.h
+/home/build/_deps/src/masstree/clp.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+assert.h
+-
+stdarg.h
+-
+ctype.h
+-
+sys/types.h
+-
+inttypes.h
+-
+
+/home/build/_deps/src/masstree/clp.h
+stdio.h
+-
+stdarg.h
+-
+
